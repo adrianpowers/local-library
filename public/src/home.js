@@ -1,5 +1,3 @@
-
-
 // returns the length of the books array to get total count
 const getTotalBooksCount = (books = []) => books.length;
 
